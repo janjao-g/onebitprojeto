@@ -1,0 +1,85 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.homePageSeccion1 {
+  min-height: 100vh;
+  background-image: url(/pages/home/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.logo {
+  width: 250px;
+}
+.navMain {
+  font-size: 13px;
+}
+.navBar {
+  text-decoration: none;
+  color: $secunday-color;
+}
+.navBar:hover {
+  color: $secunday-color;
+}
+.menuSeccion {
+  color: $secunday-color;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.menuSeccionSubTitle {
+  font-size: 20px;
+  padding-top: 50px;
+}
+.menuSeccionTitle {
+  font-size: 30px;
+}
+.arrowDown {
+  width: 150px;
+}
+.homePageSeccion2 {
+  min-height: 100vh;
+  background-image: url(/pages/home/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.homePageSeccion3 {
+  min-height: 100vh;
+  background-image: url(/pages/home/02.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.homePageSeccion4 {
+  min-height: 100vh;
+  background-image: url(/pages/home/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.footerHome {
+  background-color: $primary-color;
+  color: $secunday-color;
+  height: 15vh;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.credits {
+  font-size: 10px;
+  color: gray;
+}
+.social {
+  text-decoration: none;
+  color: $secunday-color;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.social:hover {
+  color: white;
+  text-decoration: underline;
+}

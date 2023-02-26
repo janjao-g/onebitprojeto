@@ -1,0 +1,78 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.humanSpacePage1 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.containerMainText {
+  color: $secunday-color;
+}
+.mainTitle {
+  font-size: 90px;
+}
+.mainParagraph {
+  font-size: 30px;
+}
+.humanSpacePage2 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/02.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.headerPage {
+  background-color: black;
+  color: $secunday-color;
+  font-size: 20px;
+  padding: 30px;
+}
+.containerEarthText {
+  color: $secunday-color;
+  padding-left: 520px;
+  padding-top: 200px;
+}
+.titlePage {
+  font-size: 45px;
+}
+.humanSpacePage3 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.containerSataliteText {
+  color: $secunday-color;
+  padding-left: 50px;
+  padding-top: 200px;
+}
+.humanSpacePage4 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.containerMoonText {
+  color: $secunday-color;
+  padding-left: 450px;
+  padding-top: 200px;
+}
+.humanSpacePage5 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/05.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.containerMarsText {
+  color: $secunday-color;
+  padding-left: 50px;
+  padding-top: 200px;
+}

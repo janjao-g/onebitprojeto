@@ -1,0 +1,163 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.falconPageSeccion1 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.logo {
+  width: 250px;
+}
+.navMain {
+  font-size: 13px;
+}
+.navBar {
+  text-decoration: none;
+  color: $secunday-color;
+}
+.navBar:hover {
+  color: $secunday-color;
+}
+.mainTitle {
+  color: $secunday-color;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 180px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bigTitle {
+  font-size: 85px;
+}
+.smallTitle {
+  font-size: 20px;
+}
+.counterDice {
+  height: 40vh;
+  background-color: $primary-color;
+  color: $secunday-color;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.counterNumb {
+  text-align: center;
+  font-size: 80px;
+}
+.counterDescription {
+  font-size: 20px;
+}
+.falconPageSeccion2 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/02.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.descriptionFalcon {
+  color: $secunday-color;
+  font-size: 25px;
+  max-width: 720px;
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.falconCaroulselContainer1 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+.carouselTitle {
+  display: flex;
+  flex-direction: column;
+  gap: 15px 10px;
+}
+
+.tableSeccion {
+  padding: 30px;
+}
+
+#overViewPosition {
+  color: $secunday-color;
+  display: flex;
+  flex-direction: column;
+  max-width: 750px;
+}
+.falconCaroulselContainer2 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+#tableDice {
+  color: $secunday-color;
+  font-size: 15px;
+  max-width: 450px;
+}
+.textStage {
+  font-size: 15px;
+  max-width: 400px;
+}
+.falconCarouselContainer3 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/05.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+.falconCarouselContainer4 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/06.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+.falconCarouselContainer5 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/07.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+.falconContainer6 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/08.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: $secunday-color;
+}
+.carouselCaption {
+  background-color: black;
+  font-size: 15px;
+}
+.footerPage {
+  min-height: 100vh;
+  background-color: black;
+  color: $secunday-color;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.textInfo {
+  font-size: 15px;
+}
+#btnDuo {
+  padding: 20px;
+}

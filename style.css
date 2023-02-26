@@ -1,0 +1,385 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.homePageSeccion1 {
+  min-height: 100vh;
+  background-image: url(/pages/home/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  width: 250px;
+}
+
+.navMain {
+  font-size: 13px;
+}
+
+.navBar {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navBar:hover {
+  color: #ffffff;
+}
+
+.menuSeccion {
+  color: #ffffff;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.menuSeccionSubTitle {
+  font-size: 20px;
+  padding-top: 50px;
+}
+
+.menuSeccionTitle {
+  font-size: 30px;
+}
+
+.arrowDown {
+  width: 150px;
+}
+
+.homePageSeccion2 {
+  min-height: 100vh;
+  background-image: url(/pages/home/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.homePageSeccion3 {
+  min-height: 100vh;
+  background-image: url(/pages/home/02.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.homePageSeccion4 {
+  min-height: 100vh;
+  background-image: url(/pages/home/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.footerHome {
+  background-color: #000000;
+  color: #ffffff;
+  height: 15vh;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.credits {
+  font-size: 10px;
+  color: gray;
+}
+
+.social {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.social:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.falconPageSeccion1 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  width: 250px;
+}
+
+.navMain {
+  font-size: 13px;
+}
+
+.navBar {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navBar:hover {
+  color: #ffffff;
+}
+
+.mainTitle {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 180px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bigTitle {
+  font-size: 85px;
+}
+
+.smallTitle {
+  font-size: 20px;
+}
+
+.counterDice {
+  height: 40vh;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.counterNumb {
+  text-align: center;
+  font-size: 80px;
+}
+
+.counterDescription {
+  font-size: 20px;
+}
+
+.falconPageSeccion2 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/02.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.descriptionFalcon {
+  color: #ffffff;
+  font-size: 25px;
+  max-width: 720px;
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.falconCaroulselContainer1 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.carouselTitle {
+  display: flex;
+  flex-direction: column;
+  gap: 15px 10px;
+}
+
+.tableSeccion {
+  padding: 30px;
+}
+
+#overViewPosition {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  max-width: 750px;
+}
+
+.falconCaroulselContainer2 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+#tableDice {
+  color: #ffffff;
+  font-size: 15px;
+  max-width: 450px;
+}
+
+.textStage {
+  font-size: 15px;
+  max-width: 400px;
+}
+
+.falconCarouselContainer3 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/05.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.falconCarouselContainer4 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/06.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.falconCarouselContainer5 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/07.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.falconContainer6 {
+  min-height: 100vh;
+  background-image: url(/pages/falcon9/08.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.carouselCaption {
+  background-color: black;
+  font-size: 15px;
+}
+
+.footerPage {
+  min-height: 100vh;
+  background-color: black;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textInfo {
+  font-size: 15px;
+}
+
+#btnDuo {
+  padding: 20px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.humanSpacePage1 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/01.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.containerMainText {
+  color: #ffffff;
+}
+
+.mainTitle {
+  font-size: 90px;
+}
+
+.mainParagraph {
+  font-size: 30px;
+}
+
+.humanSpacePage2 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/02.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.headerPage {
+  background-color: black;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 30px;
+}
+
+.containerEarthText {
+  color: #ffffff;
+  padding-left: 520px;
+  padding-top: 200px;
+}
+
+.titlePage {
+  font-size: 45px;
+}
+
+.humanSpacePage3 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/03.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.containerSataliteText {
+  color: #ffffff;
+  padding-left: 50px;
+  padding-top: 200px;
+}
+
+.humanSpacePage4 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/04.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.containerMoonText {
+  color: #ffffff;
+  padding-left: 450px;
+  padding-top: 200px;
+}
+
+.humanSpacePage5 {
+  min-height: 100vh;
+  background-image: url(/pages/humanFlight/05.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.containerMarsText {
+  color: #ffffff;
+  padding-left: 50px;
+  padding-top: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */
